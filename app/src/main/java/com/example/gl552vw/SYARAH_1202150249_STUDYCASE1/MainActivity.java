@@ -1,4 +1,4 @@
-package com.example.gl552vw.studycase1;
+package com.example.gl552vw.SYARAH_1202150249_STUDYCASE1;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
