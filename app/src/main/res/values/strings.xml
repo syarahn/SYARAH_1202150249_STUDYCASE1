@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dinner For Osas</string>
+    <string name="header">Makan Malam</string>
+    <string name="hint_makanan">Masukkan nama makanan</string>
+    <string name="hint_jumlah">Masukkan Jumlah Makanan</string>
+    <string name="button1">eatbus</string>
+    <string name="button2">abnormal</string>
+    <string name="subheader_text">dengan Milea</string>
+</resources>
